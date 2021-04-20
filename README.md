@@ -12,7 +12,7 @@ The following tools help make easier to work with sample code.
 
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-[Download the ZIP from this location](https://github.com/craigshoemaker/html-css-javascript-getting-started/archive/master.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/Manish-code/html-css-js-getting-started/archive/master.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
 ```bash
 git clone https://github.com/craigshoemaker/html-css-javascript-getting-started
